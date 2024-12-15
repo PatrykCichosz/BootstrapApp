@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cichz\\Desktop\\BootstrapApp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cichz\\Desktop\\BootstrapApp\\image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cichz\\Desktop\\BootstrapApp\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cichz\\Desktop\\BootstrapApp\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cichz\\Desktop\\BootstrapApp\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cichz\\Desktop\\BootstrapApp\\second_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:second_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cichz\\Desktop\\BootstrapApp\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cichz\\Desktop\\BootstrapApp\\mastercard1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mastercard1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +50,101 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-15T21:38:10.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mastercard1.jpg - Bitmap [4032x3024, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\mastercard1.jpg",
+              "RelativeDocumentMoniker": "mastercard1.jpg",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\mastercard1.jpg - Bitmap [4032x3024, 24 bit, JPG]",
+              "RelativeToolTip": "mastercard1.jpg - Bitmap [4032x3024, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-15T21:26:02.298Z",
+              "EditorCaption": " - Bitmap [4032x3024, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "image.png - PNG [465x717, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\image.png",
+              "RelativeDocumentMoniker": "image.png",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\image.png - PNG [465x717, 32 bit, PNG]",
+              "RelativeToolTip": "image.png - PNG [465x717, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-15T20:11:39.942Z",
+              "EditorCaption": " - PNG [465x717, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\styles.css",
+              "RelativeDocumentMoniker": "styles.css",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\styles.css",
+              "RelativeToolTip": "styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T20:11:28.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "background.jpg - Bitmap [5472x3648, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\background.jpg",
+              "RelativeDocumentMoniker": "background.jpg",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\background.jpg - Bitmap [5472x3648, 24 bit, JPG]",
+              "RelativeToolTip": "background.jpg - Bitmap [5472x3648, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-15T20:10:43.445Z",
+              "EditorCaption": " - Bitmap [5472x3648, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAADYBAAAAAAAAAAAAADgAAAD/AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-15T20:05:33.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\scripts.js",
+              "RelativeDocumentMoniker": "scripts.js",
+              "ToolTip": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\scripts.js",
+              "RelativeToolTip": "scripts.js",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-15T20:04:52.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "second_page.html",
               "DocumentMoniker": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\second_page.html",
               "RelativeDocumentMoniker": "second_page.html",
               "ToolTip": "C:\\Users\\cichz\\Desktop\\BootstrapApp\\second_page.html",
               "RelativeToolTip": "second_page.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-12-15T10:30:33.029Z",
               "EditorCaption": ""

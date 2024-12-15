@@ -79,3 +79,12 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
+document.getElementById('getQuote').addEventListener('click', async () => {
+    const response = await fetch('https://api.breakingbadquotes.xyz/v1/quotes');
+    const data = await response.json();
+    const quote = data[0];
+
+    document.getElementById('quoteText').textContent = quote.quote;
+    document.getElementById('quoteAuthor').textContent = `- ${quote.author}`;
+});
